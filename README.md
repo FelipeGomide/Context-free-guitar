@@ -20,8 +20,8 @@ Requisitos:
 - Python 3.10 ou mais recente;
 - a biblioteca do [FluidSynth](https://www.fluidsynth.org/) (`libfluidsynth`),
   usada para gerar e tocar o áudio:
-  - Debian/Ubuntu: `sudo apt install libfluidsynth3`
-  - macOS: `brew install fluid-synth`
+  - Debian/Ubuntu: `sudo apt install fluidsynth`
+  - macOS: `brew install fluidsynth`
 
 ```bash
 python -m venv .venv
@@ -33,9 +33,12 @@ Isso instala o comando `cfguitar` dentro do `.venv`.
 ## Uso
 
 ```bash
-.venv/bin/cfguitar            # semente sorteada
-.venv/bin/cfguitar 7          # semente fixa: sempre gera a mesma música
-.venv/bin/cfguitar 7 --tocar  # gera e toca
+source .venv/bin/activate
+
+cfguitar -h         # msotra guia de parâmetros de execução 
+cfguitar            # semente sorteada
+cfguitar 7          # semente fixa: sempre gera a mesma música
+cfguitar 7 --tocar  # gera e toca
 ```
 
 O programa mostra a cifra no terminal:
