@@ -1,0 +1,15 @@
+# Ambiente e arquivos gerados pelo Python
+.venv/
+__pycache__/
+*.egg-info/
+
+# Músicas geradas (recriáveis a partir da seed)
+out/
+
+docs/*
+
+# Soundfonts: só o Nylon_Guitar.sf2 (25 MB, CC BY) vai para o repositório.
+# O Live_HQ.sf2 completo passa do limite de 100 MB do GitHub, e o SM64.sf2
+# tem licença desconhecida.
+soundfonts/*.sf2
+!soundfonts/Nylon_Guitar.sf2

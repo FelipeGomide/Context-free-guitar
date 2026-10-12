@@ -1,0 +1,8 @@
+Levada: VALSA, 135 bpm, 3/4
+A: E menor
+B: F maior
+
+[A] | Am7(9)       | D7(4)(9)     | F#m7(b5)     | F#m7(b5) B7(9) |
+[A] | Am7(9)       | D7(4)(9)     | F#m7(b5)     | B7(13) Em7(9) |
+[B] | C7(9)        | Bb7M         | Gm7(11)      | F7M(9)       |
+[A] | Am7(9)       | D7(4)(9)     | F#m7(b5)     | B7(9) Em7(11) |

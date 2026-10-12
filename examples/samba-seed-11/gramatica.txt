@@ -1,0 +1,1 @@
+SAMBA 85 A: G maior B: G menor [A] | IV 7 | VI 6 | I 7 | I 7 V 7 [A] | IV 7 | VI 6 | I 7 | V 9 I 9 [B] | IV 9 | III 9 | VII 11 | II 9 [A] | IV 7 | VI 6 | I 7 | V 11 I 9

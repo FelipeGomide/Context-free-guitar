@@ -1,0 +1,1 @@
+VALSA 135 A: E menor B: F maior [A] | IV 9 | VII 11 | II 6 | II 6 V 9 [A] | IV 9 | VII 11 | II 6 | V 6 I alt [B] | V 9 | IV 7 | II 11 | I 9 [A] | IV 9 | VII 11 | II 6 | V 9 I 11

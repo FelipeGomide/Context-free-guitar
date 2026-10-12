@@ -1,0 +1,8 @@
+Levada: SAMBA, 85 bpm, 2/4
+A: G maior
+B: G menor
+
+[A] | C7M          | Em7(9)       | G7M          | G7M D7       |
+[A] | C7M          | Em7(9)       | G7M          | D7(9) G7M(9) |
+[B] | Cm7(9)       | Bb7M(9)      | F7(4)(9)     | Am7(b5)(9)   |
+[A] | C7M          | Em7(9)       | G7M          | D7(4)(9) G7M(9) |

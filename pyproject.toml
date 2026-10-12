@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "context-free-guitar"
+version = "0.1.0"
+description = "Gera músicas de bossa nova ao violão a partir de uma gramática probabilística"
+requires-python = ">=3.10"
+dependencies = [
+    "nltk",
+    "numpy",
+    "pretty-midi",
+    "pyfluidsynth",
+    "soundfile",
+]
+
+[project.scripts]
+cfguitar = "cfguitar.main:cli"
+
+# O código fica em source/, instalado como o pacote "cfguitar".
+[tool.setuptools]
+package-dir = { "cfguitar" = "source" }
+packages = ["cfguitar"]
+
+[tool.setuptools.package-data]
+cfguitar = ["song.pcfg"]

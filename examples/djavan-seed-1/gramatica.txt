@@ -1,0 +1,1 @@
+DJAVAN 75 A: F menor B: C# maior [A] | III 6 | VI alt | I 9 | II 9 V 9 [A] | III 6 | VI alt | I 9 | V 9 I 9 [B] | I 9 | II 7 | IV 6 | VII 11 [A] | III 6 | VI alt | I 9 | V 6 I 6

@@ -1,0 +1,8 @@
+Levada: BOSSA, 70 bpm, 2/4
+A: Ab menor
+B: G menor
+
+[A] | Eb7(b9)      | Dbm7(9)      | Abm7         | Abm7(9) Eb7(9) |
+[A] | Eb7(b9)      | Dbm7(9)      | Abm7         | Eb7(13) Abm7(9) |
+[B] | Gm7(9)       | Cm7          | D7(13)       | D7(4)(9)     |
+[A] | Eb7(b9)      | Dbm7(9)      | Abm7         | Dbm7(9) Abm7 |
